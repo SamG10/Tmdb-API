@@ -1,0 +1,51 @@
+.section-top {
+    /* color: white; */
+    padding: 50px;
+    /* background: linear-gradient(to bottom right, rgba(6.27%, 6.27%, 9.02%, 1.00), rgba(6.27%, 6.27%, 9.02%, 0.84)); */
+}
+.tagline p {
+    font-style: italic;
+}
+
+
+.titre {
+    font-weight: 700;
+}
+.poster {
+  
+}
+
+
+.vote {
+    background-color: #081c22;
+    border: solid #21d07a 4px;
+    border-radius: 50%;
+    padding: 20px;
+    color: white;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#note-text {
+    font-weight: bold;
+    margin-left: 10px;
+    line-height: 22px;
+}
+
+.head {
+    line-height: 15px;
+    margin-bottom: 20px;
+}
+.date {
+    font-size: 14px;
+}
+
+#img {
+    max-height: 450px;
+}
+
+.description {
+    color: white;
+}
